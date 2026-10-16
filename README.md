@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [benkaiser/i3-wm-config](https://github.com/benkaiser/i3-wm-config), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 # i3-wm-config by benkaiser
 
 This is my configuration for the i3 window manager.  
